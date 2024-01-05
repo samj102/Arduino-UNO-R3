@@ -1,0 +1,37 @@
+
+# Parts List for ELEGOO UNO R3 Robot Project
+
+## Core Components
+- **Arduino UNO R3 Board**: The main microcontroller board for the project.
+- **Motor Driver Module**: To control the robot's motors.
+
+## Sensors
+- **Ultrasonic Distance Sensor**: For object avoidance.
+- **Flame Sensor**: To detect flames or fire.
+- **Line Tracking Sensor Module**: For precise line following.
+
+## Mechanical Parts
+- **Chassis**: The base frame for the robot.
+- **Gear Motors (x4)**: To drive the robot's wheels.
+- **Wheels (x4)**: For the robot's movement.
+- **Caster Wheel/Ball**: To support the chassis and maintain balance.
+- **Battery Holder**: To house the power source.
+
+## Power Supply
+- **Rechargeable Battery Pack**: Preferably Lithium-ion or NiMH.
+- **Battery Charger/Adapter**: For recharging the battery pack.
+
+## Cooling System
+- **Small Fan**: For cooling electronic components.
+
+## Miscellaneous
+- **Jumper Wires**: For connections between the components.
+- **PCB or Breadboard**: For assembling the circuit.
+- **Screw and Nut Set**: For mechanical assembly.
+- **Double-Sided Tape or Velcro Strips**: For attaching components to the chassis.
+- **USB Cable**: For connecting the Arduino to a computer.
+
+## Tools Required
+- **Soldering Iron and Solder**: For permanent connections.
+- **Screwdriver Set**: For assembling parts.
+- **Wire Cutter/Stripper**: For preparing wires.
